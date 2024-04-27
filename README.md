@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [Crowdbotics](https://crowdbotics.com) while leading all things tech at [Autonomous](https://autonomoustech.ca)
+🔭 Currently working at [Crowdbotics](https://crowdbotics.com) while leading all things tech at [Autonomous](https://autonomoustech.ca).
